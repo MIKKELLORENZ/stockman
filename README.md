@@ -5,6 +5,8 @@
 Stock Man is a 1980s-themed stock simulation game that balances engaging dynamics with fun sound design and unpredictability. Dive into the retro world of stock trading and try your luck at becoming the ultimate stock tycoon.
 
 ![Game Screenshot](menu_wallpaper.png)
+## Version
+1.0
 
 ## Features
 
