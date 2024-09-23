@@ -77,7 +77,7 @@ python3 stockman.py
 ![Game Screenshot](screen_shot.jpg)
 
 ## Assets
-Please note that the sound effect game_music.mp3 is copyrighted by EA and originates from the game SimCity 4000. The real name of the song is "Wheels of Progress"
+Please note that the sound effect game_music.mp3 is copyrighted by EA and originates from the game SimCity 4000. The real name of the song is "Wheels of Progress". The intro.wav is an original creation.
 
 ## Contributions
 Contributions are welcome! Please open an issue or submit a pull request
